@@ -11,7 +11,8 @@ import { ResultsComponent } from './results/results.component';
     GifsPageComponent,
     SearchComponent,
     ResultsComponent
-  ],exports: [
+  ],
+  exports: [
     GifsPageComponent,
   ],
   imports: [
